@@ -113,8 +113,7 @@ mcp-server/
 ├── pyproject.toml      # Project dependencies
 ├── server.py           # MCP server with trip planning tools
 ├── trip_planner.py     # Main application entry point
-├── uv.lock            # Dependency lock file
-└── README.md          # This file
+└── uv.lock            # Dependency lock file
 ```
 
 ## Dependencies
