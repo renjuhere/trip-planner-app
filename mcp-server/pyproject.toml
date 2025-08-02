@@ -1,0 +1,13 @@
+[project]
+name = "mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autogen-agentchat>=0.7.1",
+    "autogen-ext>=0.7.1",
+    "autogen-watsonx-client>=0.0.8",
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.12.3",
+]
